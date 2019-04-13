@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "body-parser": "^1.18.3",
-    "grpc": "^1.15.1",
+    "grpc": "^1.19.0",
     "install": "^0.10.4",
     "lodash": "^4.17.11",
     "unirest": "^0.5.1",
